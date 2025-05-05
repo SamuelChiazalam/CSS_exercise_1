@@ -4,4 +4,4 @@ Convert the design in the image (without the arrow and the â€˜heading peeks outâ
 
 https://github.com/Oluwasetemi/css-v3/raw/main/class-notes/image-5.png
 
-An AltSchool Africa assignment
+(An AltSchool Africa assignment)
